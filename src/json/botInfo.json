@@ -1,0 +1,55 @@
+{
+  "botname": "Rzx-Wabot",
+  "ownerNumber": [
+    "6288225066473",
+    "6283879635336",
+    "6283894905341",
+    "62882250664733"
+  ],
+  "prefix": [
+    "/"
+  ],
+  "ownername": "RzxGamz",
+  "unicode": {
+    "head": "⬣",
+    "list": "⬡",
+    "body": "┃",
+    "upper": "┏",
+    "down": "┗",
+    "line": "━",
+    "wings": [
+      "𓆩 ",
+      " 𓆪"
+    ],
+    "needed": [
+      "<",
+      ">"
+    ],
+    "optional": [
+      "(",
+      ")"
+    ]
+  },
+  "response": {
+    "owner": "Khusus Owner",
+    "admin": "Khusus Admin",
+    "group": "Khusus Group",
+    "wait": "Tunggu Sebentar...",
+    "private": "Khusus Private",
+    "notUrl": "Link invalid",
+    "media": "Pesan harus media",
+    "mentioned": "Tag orang bang",
+    "quoted": "Tag pesan bang",
+    "_media": "Kirim pesan media atau tag pesan yang terdapat media",
+    "Error": "Maaf kak ada yang error",
+    "fromMe": "Pesan yang di balas harus dari bot",
+    "botAdmin": "Bot harus admin untuk menggunakan fitur ini"
+  },
+  "session": {
+    "clientID": "xGGdHQD0PVYXluqz6tQsdg==",
+    "serverToken": "1@dkmH2+hgTNxRnU+O3u9UHtLoWk9LWDRp/Fw2jiTkiqc8WG8lRxtkSYuKyeExfZQd90TGNoDF8uLYlw==",
+    "clientToken": "LhZQoo/8ZoQhY4p1e+yt9QnRXdMj0DoCUsz1hnEzozM=",
+    "encKey": "SCHjKFS/EVEAcReUQr9bFy2+QCAIHykBS8HriBLRQUk=",
+    "macKey": "MPfcWLP0TOXdaZu7eznezxiI6kWDAJQX3wfXLfXz4yI="
+  }
+}
